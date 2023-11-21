@@ -29,8 +29,7 @@
 
 ### :rocket: Career
 #### Edenloop (2022/01/10 ~ 2023/09/30)
-- Full Stack Developer
-- Back : Java, Spring Boot, MyBatis
-- Front : JS, JQuery, JSP
+- Backend : Java, Spring Boot, MyBatis
+- Frontend : JS, JQuery, JSP
 - BlockChain : Solidity
 - MariaDB, AWS, SVN
